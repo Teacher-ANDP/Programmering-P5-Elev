@@ -4,6 +4,4 @@ function setup() {
 
 function draw() { 
   background(220);
-  print("Hello Github")
-  print("Hello desktop")
 }
